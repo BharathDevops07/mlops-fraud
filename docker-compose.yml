@@ -2,7 +2,7 @@ version: "3.9"
 
 services:
   fraud-api:
-    image: 861550625988.dkr.ecr.ap-south-1.amazonaws.com/fraud-detection-api:1.0
+    image: 861550625988.dkr.ecr.ap-south-1.amazonaws.com/fraud-detection-api:1
     ports:
       - "8000:8000"
     environment:
