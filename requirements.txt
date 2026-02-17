@@ -1,7 +1,8 @@
+fastapi
+uvicorn
+numpy
+joblib
+boto3
 pandas
 scikit-learn
-joblib
-numpy
-boto3
-uvicorn
-fastapi
+python-multipart
